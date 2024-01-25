@@ -4,7 +4,7 @@
  */
 
 //declare a global variable and assign it a number value on the next line:
-var banana3 x = 320; 
+var x = 320; 
 
 function setup() {
   createCanvas(400, 300); // creates a drawing canvas
